@@ -1,3 +1,3 @@
 print('Hello World')
 print('Contacts')
-con = int(input'asdasd: ')
+contact = input('введите номер телефона: ')
